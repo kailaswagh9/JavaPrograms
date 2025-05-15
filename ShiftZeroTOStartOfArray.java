@@ -1,4 +1,4 @@
-package com.programs;
+package javaProgramsPkg;
 
 public class ShiftZeroTOStartOfArray {
 

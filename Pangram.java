@@ -1,3 +1,4 @@
+package javaProgramsPkg;
 import java.util.*;
 public class Pangram
 { // if the string contains all a-z letters ignoring case then thats a pangram string

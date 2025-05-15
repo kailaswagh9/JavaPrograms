@@ -1,3 +1,4 @@
+package javaProgramsPkg;
 public class OccArr{
 
 

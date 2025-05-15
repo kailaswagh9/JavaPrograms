@@ -7,7 +7,7 @@ public class FindFirstRepeatedAndNonRepeated {
 //		Find out first repeated and first non-repeated character from string. Use hashmap.
 
 	public static void main(String[] args) {
-		String string = "Kailas";
+		String string = "kssForGks";
 		Result result = findFirstRepeatedAndNonRepeated(string);
 		System.out.println("First repeated character: " + result.firstRepeated);
 		System.out.println("First non-repeated character: " + result.firstNonRepeated);
