@@ -1,3 +1,4 @@
+package javaProgramsPkg;
 class ShiftZeroAtTheEndOfArray {
     public static void main(String[] args) {
        int[] nums = {0,45,0,8,87,98,0,0,4};
